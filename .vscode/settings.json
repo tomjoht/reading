@@ -1,6 +1,5 @@
 {
-  "editor.minimap.enabled": false,
-  "editor.wrappingIndent": "indent",
+"editor.minimap.enabled": false,
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
   "[markdown]": {
