@@ -2,6 +2,16 @@
 title: Wayfinding post 3
 ---
 
+in this, reference Matthew Crawfords Why we drive near the end where he's clearly pushing back against the loss of autonomy in the of increasing technological algorithms taking control. this is the larger theme here. at what point are you controlling the tech versus it controlling you? this is also a theme in Cal Newport's digital minimalism -- you need to be the one in control, using tech to further your own agenda, not the algorithm's agenda.
+
+what is the agenda of a mapping algorithm? does it just want to get you from point A to point B in the fastest possible way? or is there something more nefarious going on, such as routing you past advertisers, or showing you advertisers on a map, or doing something to hijack your attention while a company promotes an idea or brand to influence you? if this is happening, it's pretty subtle. It's not like search engine links where you can clearly see advertising links at the top of your results, and it's easy to see that the attention merchant is selling a bit of your attention to these advertisers in hopes that you click a link or that you become influenced by these ads. The distractions appear clearly flagged as such, and I usually avoid them altogether.
+
+This might beg the question, how do large tech companies from a mapping application? What's in it for them? Well, Google Maps does have advertiser pins (square icons), so that as you browse around on the map, you're bound to see pins like 7-11, Verizon, and KFC appear. Maybe the idea is that by seeing the location of the business, you might decide to include it in your route's plans.
+
+Presumably, it's the ecosystem theory. If you use one app, you're more likely to use another. You do a search online using Google Maps. Then you get in your car and need to route the place you just searched for. Well, if your digital identity seamlessly transitions from one context to another because you're using an ecosystem of apps that all talk to each other and allow that digital identity to seamlessly transition from one context to another, then life becomes more convenient for you. 
+
+I won't explore the ecosystem argument much more except to note that nearly every big tech companies pursues the same strategy. You might buy an Amazon Echo is you're already a Prime member, because your Amazon identity seamlessly authenticates the device and you get notifications about when your shipments arrive. And if you want to buy something from the Amazon marketplace, how much more convenient if you have an Amazon Echo Show to shop. Or if you're watching a show on Amazon Prime Video in your living room and you want to continue watching it in your kitchen, you can tell Alexa to watch it on your Echo Show. And speaking of Alexa, who wants to become familiar with the nuances of multiple digital assistants to interact with technology?
+
 
 
 ## Effects of GPS on hippocampus
