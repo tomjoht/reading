@@ -2,6 +2,8 @@
 title: Wayfinding post 3
 ---
 
+reference that article shannon sent you. [article_notes/habitual_use_of_gps.md][article_notes/habitual_use_of_gps.md]
+
 in this, reference Matthew Crawfords Why we drive near the end where he's clearly pushing back against the loss of autonomy in the of increasing technological algorithms taking control. this is the larger theme here. at what point are you controlling the tech versus it controlling you? this is also a theme in Cal Newport's digital minimalism -- you need to be the one in control, using tech to further your own agenda, not the algorithm's agenda.
 
 what is the agenda of a mapping algorithm? does it just want to get you from point A to point B in the fastest possible way? or is there something more nefarious going on, such as routing you past advertisers, or showing you advertisers on a map, or doing something to hijack your attention while a company promotes an idea or brand to influence you? if this is happening, it's pretty subtle. It's not like search engine links where you can clearly see advertising links at the top of your results, and it's easy to see that the attention merchant is selling a bit of your attention to these advertisers in hopes that you click a link or that you become influenced by these ads. The distractions appear clearly flagged as such, and I usually avoid them altogether.
@@ -13,6 +15,7 @@ Presumably, it's the ecosystem theory. If you use one app, you're more likely to
 I won't explore the ecosystem argument much more except to note that nearly every big tech companies pursues the same strategy. You might buy an Amazon Echo is you're already a Prime member, because your Amazon identity seamlessly authenticates the device and you get notifications about when your shipments arrive. And if you want to buy something from the Amazon marketplace, how much more convenient if you have an Amazon Echo Show to shop. Or if you're watching a show on Amazon Prime Video in your living room and you want to continue watching it in your kitchen, you can tell Alexa to watch it on your Echo Show. And speaking of Alexa, who wants to become familiar with the nuances of multiple digital assistants to interact with technology?
 
 
+on jacket cover of Never Lost Again, author has self-deprecating quote -- "X has a terrible sense of direction." cute but why? doesn't this say something larger about the futility of the map?
 
 ## Effects of GPS on hippocampus
 our hippocampus atrophies and we can no longer solve spatial problems. 18
@@ -51,17 +54,17 @@ Veronoique Bohbot does not use GPS. While she was careful to point out that no o
 
 "What good could possibly come from outsourcing cognitive processes that were an essential aspect of making humans human?" 276
 
-LIke the invention of the wheel, car, train, and airplane before us, technologies like the Hyperloop and fugure commercial space ventures will realign whole economies and patterns of movement. They may also realign the human mind." 278 author says how we distort our sense of time and space, shrinking it. 
+LIke the invention of the wheel, car, train, and airplane before us, technologies like the Hyperloop and future commercial space ventures will realign whole economies and patterns of movement. They may also realign the human mind." 278 author says how we distort our sense of time and space, shrinking it. 
 
 "Time--saving it, managing it, maximizing it, escaping it, denying it --strikes me as one of the prime concerns and anxieties of modern life, and hence a metric by which we judge the quality of our travel. How fast is it, how easy to distract ourselves from the means and act of it, the burning of fuel, the people and places we fly over? 'We're not selling transportation, we're selling time,' promises Hyperloop."279-80
 
-"Of course, navigational devices like maps, compasses, and sextants also fit Borgmann's device paradigm, because they outsource to some degree the formidable experience, observation, and memory needed to undertake skilled navigation. But even these inventions required a level of environmental awareness and orientation, as well as an understanding of topiography of celestial phenomena. It wasn't until the twentieth century that navigational technology released us from needing to pay *any* attention at all." 283
+"Of course, navigational devices like maps, compasses, and sextants also fit Borgmann's device paradigm, because they outsource to some degree the formidable experience, observation, and memory needed to undertake skilled navigation. But even these inventions required a level of environmental awareness and orientation, as well as an understanding of topography of celestial phenomena. It wasn't until the twentieth century that navigational technology released us from needing to pay *any* [[attention]] at all." 283
 
 "But I see potential for a nefarious influence on our lives: the more we rely on driverless cars and their need for three-dimensional maps, the narrower our choices of where we travel and explore could become. As we grow to depend upon, or maybe even just prefer, autonomous vehicles, they will choose the routes we take, and they in turn will choose those routes that are already mapped. Where we go will increasingly be confined by the technology we use." 283-84
 
-The allure of autonomous vehicle sis that so much of our travel along monotonous highways slashed across the landscape, often bordered by sound-insulating walls so as to limit one's view, already feels like a waste of time. If our brains are on autopilot while driving, responding to GPS_simulated instructions, wouldn't it be better to spend that time in some other way? ... I see the driverless car as representing yet another severance between our movement through space and time and the pleasure of effort and autonomy. GPS relieves us of the need to form cognitive maps, and driverless cars relieve us of the need to look away from our screens and take note of directly experienced phenomena in the environment. In seeking maximum speed and ultimate efficiency, the autonomous vehicle cocoons us from the physics of movement at high speeds and the burning of fuel. Rather than plunge us into relaity, an autonomous vehicle era  285-86
+The allure of autonomous vehicles is that so much of our travel along monotonous highways slashed across the landscape, often bordered by sound-insulating walls so as to limit one's view, already feels like a waste of time. If our brains are on autopilot while driving, responding to GPS-simulated instructions, wouldn't it be better to spend that time in some other way? ... I see the driverless car as representing yet another severance between our movement through space and time and the pleasure of effort and autonomy. GPS relieves us of the need to form cognitive maps, and driverless cars relieve us of the need to look away from our screens and take note of directly experienced phenomena in the environment. In seeking maximum speed and ultimate efficiency, the autonomous vehicle cocoons us from the physics of movement at high speeds and the burning of fuel. Rather than plunge us into reality, an autonomous vehicle era."  285-86
 
-"The driver quite literally relies on the virtual representation of the road rather than their unmediated perception of the physical road. " 273
+"The driver quite literally relies on the virtual representation of the road rather than their unmediated perception of the physical road." 273
 
 Harry Heft, professor of environmental psychology. "The GPS diffuses that whole way of engaging the world ... because you don't even really have to *look* at the world very much." 273
 
@@ -71,9 +74,9 @@ GPS doesn't require you to be observant/aware of your environment.
 
 "Busy, rushed Americans, he [John Stilgoe, landscape historian] thinks so, no longer take the time to explore and discover their surroundings and have lost their capacity to even see them directly. Stilgoee believes that in an age dominated by programmed, medicated material and the internet, the ability to *look* at things, to practice the art of observation that was required of us as a species for eons till now is an essential aspect of our intellect and has to be relearned."  290
 
-"... for someone who prizes exploration as a primary exercise that allows the mind to wander, there could be no more unique capacities in return for  mere effiency. To him, getting lost is an opportunity for discovery, one that demands that all the sesnees come alive, and creates a maxiumu alertness in which observation and possibility are heightened. In *What Is Landscape? Stilgoe writes that '[b]eing lost, even being deliberately free of electronic location devices, sharpens one's senses and often eventually reassures." 290
+"... for someone who prizes exploration as a primary exercise that allows the mind to wander, there could be no more unique capacities in return for mere efficiency. To him, getting lost is an opportunity for discovery, one that demands that all the senses come alive, and creates a maximum alertness in which observation and possibility are heightened. In *What Is Landscape? Stilgoe writes that '[b]eing lost, even being deliberately free of electronic location devices, sharpens one's senses and often eventually reassures." 290
 
-"If I'm lost and I don't have anyone to ask, I love that feeling," he [Joe Stilgo] said, though he drew a distinction between being despearately lost in dangerous circumstances and getting lost in a generally unknown place. In the latter case, to go off track is really about challenging the borders of one's familiarity, pressing beyond the known spaces of our understa ding and experiences and into the new." 291-292 
+"If I'm lost and I don't have anyone to ask, I love that feeling," he [Joe Stilgo] said, though he drew a distinction between being desperately lost in dangerous circumstances and getting lost in a generally unknown place. In the latter case, to go off track is really about challenging the borders of one's familiarity, pressing beyond the known spaces of our understanding and experiences and into the new." 291-292 
 
 "Part of the problem is parents' incessant management of their children's time. "I think they've missed a kind of self-guided, nonorganized activity, nonsports activity growing up. Wandering around, getting into things. .... most of my colleagues I work with seem to have found their careers by being slightly disorganized. Lucking into something, you know?" Joe Stilgoe. 292-93
 
@@ -81,9 +84,7 @@ children can no longer roam or wander about due to the city roadscape. 292
 
 quoting a study: "Autonomy is a key to the acquisition of spatial skills, therefore the development of these skills can be hindered if children cannot move independently in the outdoor environment." 294
 
-"For Stilgoe, the ubiquity of smartphones can never be a good thing. His career has been dedicated to creating thirst in his students for curiousity, exploration, and wonder ---- believing them to be in fact the keystones of true intellect. Smartphones don't open the user up to their surroundings, they funnel attention inot themselves and a universe where everything is known, mapped, and accessible." 294
-
-
+"For Stilgoe, the ubiquity of smartphones can never be a good thing. His career has been dedicated to creating thirst in his students for curiosity, exploration, and wonder ---- believing them to be in fact the keystones of true intellect. Smartphones don't open the user up to their surroundings, they funnel attention into themselves and a universe where everything is known, mapped, and accessible." 294
 
 
 ## My conclusions

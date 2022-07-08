@@ -4,7 +4,7 @@ title: "Draft post for smartphone series: Pinpointing the problem"
 
 Email from Jacob Leighty. comes across a bit pigheaded, truculent with the world. i've been trying to figure out exactly what it is about social media that is the problem. clearly i don't condemn all social media, as this blog is one of the quintessential forms of the genre.
 
-reminds me of a chapter in Kevin Kelly's What Technology Wants where he looks at the unabomber's arguments, Kyzinski. people who are so anti-tech that they completely remove themselves from it. 
+reminds me of a chapter in [[Kevin Kelly]]'s What Technology Wants where he looks at the unabomber's arguments, Kyzinski. people who are so anti-tech that they completely remove themselves from it. 
 
 as i've come back to the smartphone, i've been testing the waters a bit to try to identify that part of social media that had extinguished my long-form concentration and reading. 
 
