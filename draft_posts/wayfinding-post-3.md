@@ -86,6 +86,7 @@ quoting a study: "Autonomy is a key to the acquisition of spatial skills, theref
 
 "For Stilgoe, the ubiquity of smartphones can never be a good thing. His career has been dedicated to creating thirst in his students for curiosity, exploration, and wonder ---- believing them to be in fact the keystones of true intellect. Smartphones don't open the user up to their surroundings, they funnel attention into themselves and a universe where everything is known, mapped, and accessible." 294
 
+another article on algorithms: https://theconversation.com/algorithms-have-already-taken-over-human-decision-making-111436
 
 ## My conclusions
 

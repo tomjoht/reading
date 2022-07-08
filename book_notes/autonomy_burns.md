@@ -1,5 +1,5 @@
 ---
-title: Autonomy
+title: "Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World"
 author: Lawrence Burns
 ---
 
@@ -21,7 +21,7 @@ Starts with origins of self-driving initiatives, begins with DARPA. Initiative f
 
 Initiatives evolved into transportation as well. Insistence from Brin and Page that technology could solve big problems. Persuaded lead engineers that if there wasn’t a technical reason preventing autonomous models from working, then they should do it. Google founders saw huge opportunity for a disruptive transformation with the auto-industry. Even if just a 0% chance of success, felt like they had to take it. Page and Brin seem invested from the earliest days, even feeling personally connected to a solution from being stuck in Michigan waiting for a bus that never came (or something).
 
-From earliest days, the vision was to reinvent mobility, to disrupt how transportation worked to a fully driverless model with transportation as a service (not privately owned autonomous vehicles).
+From earliest days, the vision was to reinvent [[mobility]], to disrupt how transportation worked to a fully driverless model with transportation as a service (not privately owned autonomous vehicles).
 
 Detroit wasn’t on board from the start. Felt that people liked driving. Self-driving vehicles would take this pleasure away. Detroit auto people love the feel of a car’s acceleration, handling around curves, the roar of the engine. Very much an auto-loving people who love driving, love the purr of the engines. Didn’t understand Silicon Valley’s desire to take this away. 
 
@@ -31,7 +31,7 @@ Henry Ford’s innovation was not just the assembly line, but making cars afford
 
 Cars represent freedom for people. They enabled [[mobility]], which is the ability to get from place to place, anywhere you want. Cars allowed people to live farther out, to commute in to work, to get around. Cars transformed personal mobility, giving people freedom. 
 
-Burns was an early proponent of the transformation of automobiles to alternative propulsion sources, to EVs. He helped push GM in the direction of EVs and to explore models of urban driving. But alternative propulsion systems were expensive, too cost prohibitive to work. GM and Detroit were wary about the effort, then the auto industry suffered a financial crisis in 2008. Wasn’t financially able to keep pouring money into research and experimentation toward something that might not even work out. Automakers just trying to stay afloat, sell cars. However, they lost out on a golden opportunity to get a jump on EV development at the right time. Detroit didn’t seize the moment at the right time.
+Burns was an early proponent of the transformation of automobiles to alternative propulsion sources, to [[electric vehicles]]. He helped push GM in the direction of EVs and to explore models of urban driving. But alternative propulsion systems were expensive, too cost prohibitive to work. GM and Detroit were wary about the effort, then the auto industry suffered a financial crisis in 2008. Wasn’t financially able to keep pouring money into research and experimentation toward something that might not even work out. Automakers just trying to stay afloat, sell cars. However, they lost out on a golden opportunity to get a jump on EV development at the right time. Detroit didn’t seize the moment at the right time.
 
 In contrast, Google continued to pour money into AV development. Almost struck a deal with Ford, but Ford didn’t contribute enough on their side to make it worth it for Google. Google’s initial project for developing EVs was called Chauffer. Started sometime in 2005-ish? Not sure. Eventually google started developing a highway driver assist feature, wanted to test it. In 2013, dogfooded it with employees. Found that people just fell asleep or became inattentive. Pulled the plug on this feature due to safety concerns. Worried that crashes would jeopardize testing efforts, lose trust with public. Also wanted to keep focus on transportation as a service, not as advanced tech in cars to assist with drivers driving private vehicles. Continued work on AV models. 
 
@@ -61,7 +61,9 @@ Great summary of history of waymo. Endless championing from google for this mode
 Huge shift to move away from oil dependence. Will involve massive disruption to world markets. Positive for US except for Texas. Not enough about need for EV infrastructure and power grid as replacement. 
 
 
+riving, they could be useful for many other scenarios. In _Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World_, the motivations for AV development seem much more focused on [military scenarios](https://fedtechmagazine.com/article/2021/07/autonomous-vehicles-may-cover-soldiers-airmen-dangerous-places), allowing self-driving Humvees to navigate in war zones without risking the life of soldiers. (Of course, autonomy in war can easily lead to massive clashes where remotely operated tanks and drones engage emotionlessly in battle &mdash; one step away from a _Black Mirror_ episode, but I digress.)
 
+Even outside of war, there are many use cases for self-driving vehicles, such as lunar rovers, bomb-defusing robots, hazardous waste cleanup, coal mine mapping, security monitoring, and more. Even when technology sometimes fails in one goal, the tech can be serendipitously used for another. I would have liked to read a bit more optimism in Norton's book, more perspective on the possible benefits of advanced tech in the auto space. America's highway system is pretty incredible. I don't mind my short drives much of the time. The technologist in me wanted to see a bit more optimism toward the future.
 
 
 

@@ -9,3 +9,5 @@ Mary remembers a time during her youth when she was [[lost]] but really just ent
 
 
 "Attention is the beginning of devotion." (8)
+
+A key point is that she didn't know she was lost. other people thought she was lost, but she didn't.

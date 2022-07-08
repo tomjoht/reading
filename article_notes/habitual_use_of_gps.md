@@ -4,3 +4,6 @@ author: Louisa Dahmani and Véronique D. Bohbot
 ---
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156656/
+
+[[brain]]
+[[gps]]
