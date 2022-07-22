@@ -4,6 +4,16 @@ title: stuff cut from the wayfinding post series
 
 
 
+
+
+
+
+
+
+
+
+
+
 The allure of autonomous vehicles is that so much of our travel along monotonous highways slashed across the landscape, often bordered by sound-insulating walls so as to limit one's view, already feels like a waste of time. If our brains are on autopilot while driving, responding to GPS-simulated instructions, wouldn't it be better to spend that time in some other way? ... I see the driverless car as representing yet another severance between our movement through space and time and the pleasure of effort and autonomy. GPS relieves us of the need to form cognitive maps, and driverless cars relieve us of the need to look away from our screens and take note of directly experienced phenomena in the environment. In seeking maximum speed and ultimate efficiency, the autonomous vehicle cocoons us from the physics of movement at high speeds and the burning of fuel. Rather than plunge us into reality, an autonomous vehicle era."  285-86
 
 "The driver quite literally relies on the virtual representation of the road rather than their unmediated perception of the physical road." 273
