@@ -1,3 +1,7 @@
+---
+title: stuff cut from the wayfinding post series
+---
+
 
 --------
 reference that article shannon sent you. [article_notes/habitual_use_of_gps.md][article_notes/habitual_use_of_gps.md]
