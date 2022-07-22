@@ -3,7 +3,7 @@ title: "Never Lost Again: The Google Mapping Revolution That Sparked new Industr
 author: Bill Kilday
 ---
 
-"My wife, Shelley, at home with a screaming baby, had already called twice. 'Where are you?' In frustration, I pounded my fist against my car's dashboard, yelling at nobody but myself, while driving five miles in the wrong direction down Route 2, looking for the next roundabout. Or maybe it was 3A? From 2000 to 200d, I lived in Boston -- and I was frequently turned ardound. The city was merciless to a transplanted Texan: It was like a foreign language. the locals seemed to take pride in the missing signage, serpentine streets, and roundabouts. You needed to solve a math equation to navigate some intersections." Xii
+"My wife, Shelley, at home with a screaming baby, had already called twice. 'Where are you?' In frustration, I pounded my fist against my car's dashboard, yelling at nobody but myself, while driving five miles in the wrong direction down Route 2, looking for the next roundabout. Or maybe it was 3A? From 2000 to 2003, I lived in Boston -- and I was frequently turned around. The city was merciless to a transplanted Texan: It was like a foreign language. the locals seemed to take pride in the missing signage, serpentine streets, and roundabouts. You needed to solve a math equation to navigate some intersections." xi
 
 "*Twenty-five percent* of all queries being typed into the simple white Google search box were looking for a map.
 
