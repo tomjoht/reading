@@ -1,0 +1,3 @@
+project focus
+
+- apart from concentrated reading, a focused effort on a project. seeing it through. it's easy to backburner things or get distracted. a project might require 5-10 deliverables and last a couple of months. the ability to prioritize this is key. this is also focus, even if it's not long-term reading or anything. i prefer to wait until the project is near release so that i can focus entirely on it and knock it out.
