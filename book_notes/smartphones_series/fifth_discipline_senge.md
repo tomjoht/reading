@@ -23,3 +23,34 @@ Archetype 1: Limits to Growth: "A reinforcing (amplifying) process is set in mot
 "Once you've mapped out your situation, look for the leverage. It won't involve pushing harder; that will just make the resistance stronger. More likely, it will require weakening or removing the limiting condition." 102
 
 talks about cycle of addiction. people start drinking as a way to cope with some failure, and it sort of makes them feel good / escape, but then drinking creates its own problems. 104, 108
+
+
+main takeaway: cycle of addiction, limits of growth, shifting the burden, mutualism.
+
+application to documentation: 
+- see every new addition as having impact on others
+- why some problems exist? look at parts of entire system.
+- how does this piece (this API) fit in and interact with all the other pieces? how does it influence the system?
+- why are partners not implementing this API: look at the larger system at play.
+- unifying vision for the product. when you have multiple product orgs each with differing visions.
+
+
+there's a natural tendency to break apart problems to individual components as a way to manage them and troubleshoot, but this is misleading, distorting the nature of the system.
+
+5 components:
+- system thinking
+- personal mastery
+- mental models
+- building shared vision
+- team learning
+
+"At the heart of a learning organization is a shift of mind--from seeing ourselves as separate from the world to connected to the world, from seeing problems as caused by someone or something "out there" to seeing how our own actions create the problems we experience. A learning organization is a place where people are continually discovering how they create their reality. And how they can change it." 12
+
+..."problems are becoming increasingly complex and interconnected." 14
+
+
+"When asked what they do for a living, most people describe the tasks they perform every day, not the *purpose* of the greater enterprise in which they take part. Most see themselves within a system over which they have little or no influence." 18
+
+there are frequently siloes of responsibility and stewardship. success is focused only on the immediate ownership. 
+
+when something goes wrong, we assign the blame to someone else, assume that the error lies outside our stewardship. there isn't a sense of responsibility for the whole.
