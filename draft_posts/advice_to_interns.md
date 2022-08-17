@@ -2,6 +2,62 @@
 
 "I thought it could be interesting for you to offer your own perspective and advice to those who are earlier in their career."
 
+assumption about imparting some wisdom...
+
+quotes from Senge. 
+
+work experience isn't just about gaining something that you lack; it's about keeping what you already have in spite of everything that's going to happen.
+
+Amplify those skills you have: continuous learning. stay open-minded, curious throughout your career.
+- conferences and events
+- reading
+- writing
+- experimentation
+
+some practical advice to impart. maybe 1 or 2 things might be relevant to you here:
+- set up meetings that include time for people to read the docs you want them to review.
+- technical expertise is overrated. focus on your ability to get information from engineers and push documents over the finish line. 
+- print things out that you want to read. then actually read them. build a habit of reading.
+- learn to focus by muting things that distract you. put your phone in your bag and set it on Do No Disturb, along with chat and email. tech companies are attention merchants. but if you can't focus, you won't achieve much of anything.
+- if you blog, use writing as a tool for discovery. greatest thing about writing is that it allows you to see what you think, ask questions, use it as an interlocutor for your own thoughts. spurs innovative thinking, unlocks things.
+- find something to specialize in in the field. this will help cement your interests and keep you plugged in in the field.
+- writing is a tool for influence, if you want it to be. share meeting notes, newsletters, or other email to your stakeholders and you can influence them. you hold the most powerful weapon for influence in an org.
+
+
+
+
+
+
+
+
+
+
+
+what will happen in their careers that will make them more cynical and jaded?
+
+- the fake deadline where you spend all weekend working only to realize that the deadline was arbitrary
+- the excitement about a new product release that will change the world b/c it makes it so easy to publish, then no one uses it, total flop.
+- running into defensive attitudes across boundary lines, other people in product areas who publish on your dev portal who don't want to play nicely
+- the developer who says no one reads the docs and so trivializes your role
+- the PM who doesn't review your docs b/c they're too busy, giving all their time and attention to engineering concerns
+- the sense that you're working on documentation for a product that you think it's needed in the world, which will only enrich the company but not solve any meaningful problems
+- the way support groups create KB articles or respond to user questions in ways that would merit some documentation but never reach out to you
+- the way OKRs fail to cascade up in ways that connect to a larger, more coherent strategy in an organization
+- the way teams will ignore a CL until the last minute and then expect you to work heads-down on the docs. or how they develop road maps that will surely involve doc work but don't tell you until 2 weeks before they need it, expecting you to work heads down on it
+- the way inflation outpaces the annual merit increases of your salary, and how after 4 yrs, the incentives to be at the company fizzle
+- the fact that the only way to climb the salary ladder is by moving into management or by performing miracles, but to job hop across companies is much easier and allows you to quickly improve your salary without doing a whole lot more
+- the frequent reorgs that seem to do nothing, a CEO who simply wants to rebalance the deck in the appearance of making meaningful change but without any follow through to measure results of effectiveness of the reorg, and doing little communicate reasons why or even what the reorg is
+- coming into the office to find that half of your colleagues are gone due to rebalancing of the company. 
+- getting laid off from a company.
+
+
+=======
+
+"I thought it could be interesting for you to offer your own perspective and advice to those who are earlier in their career."
+
+
+
+
 could focus on various points, or just a few.
 
 be proactive.
