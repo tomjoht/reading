@@ -98,7 +98,7 @@ Senge says people start drinking in response to some stress (e.g., increased wor
 
 This scenario is particularly poignant for me because my dad was an alcoholic in my early childhood, and then became sober through Alcoholics Anonymous. Throughout his life, though, he continued to attend regular AA meetings and celebrate each year of his sobriety. My dad passed away in 2018, and the only thing I still keep of his is this AA coin he received upon achieving 30 years of sobriety:
 
-[image]
+<img src="https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/recoveryAA.JPG" alt="Celebrating 30 years of sobriety in AA" />
 
 I'm not sure how the addiction cycle started with my father. He was pursuing a PhD in English literature and the University of Washington, with little prospects for any actual teaching job due to the market. His father was an alcoholic who shifted from town to town, unable to hold a steady job for more than a couple of years. My father suffered social awkwardness and was a loner. Maybe alcohol relieved some of this tension, helping him with social confidence. He told me he wanted to stay in school as long as possible to escape the world. Perhaps he was dreading the pressures of the corporate world that surely awaited him once he graduated. 
 
