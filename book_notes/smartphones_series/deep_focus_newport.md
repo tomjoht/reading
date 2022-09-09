@@ -47,3 +47,27 @@ open office culture with constant chat interferes with deep work. a paradox of t
 there's a "ubiquitous *culture of connectivity*, where one is expected to read and respond to e-mails (and related communication) quickly." 56
 
 "The Principle of Least Resistance: In a business setting, without clear feedback on the impact of various behaviors to the bottom line, we will tend toward behaviors that are easiest in the moment." 58
+
+people turn to busyness as a mirage of productivity. 64, 74. sending email, chat, little stuff all day. says is due to lack of clear metrics. knowledge workers don't have clear metrics so it's hard to gauge productivity, easy to mistake the appearance of busyness for someone who actually produces. "It can be hard to define exactly what a given knowledge worker does and how it differs from another." 74
+
+"Depth-destroying behaviors such as immediate e-mail responses and an active social media presence are lauded, while avoidance of these trends generates suspicion." 75
+
+we overestimate the utility of the internet 68. it gets equated with productivity, etc. in reality, mucho f internet is made by youngens trying to make a buck. "Deep work is exiled in favor of more distracting high-tech behaviors..." 69
+
+"Our brains instead contruct our worldview based on *what we pay attention to.*. ...Gallagher's theory, therefore, predicts that if you spend enough time in this state, your mind will understand your world as rich in meaing and importance." 77-79 Winifred Gallagher, "connection between attention and happiness" 76
+
+"A workday driven by the shallow, from a neurological perspective, is likely to be a draining anbd upsetting day, even if most of the shallow things that capture your attention seem harmless or fun." 82
+
+"...to increase the time you spend in a stat eof depth is to leverage the complex machinery of the human brain in a way that for several different neurological reasons maximizes the meaning and satisfaction you'll associate with your working life." 82
+
+Quoting Csikszenmihalyi's work: "The best moments usually occur when a person'[s body or mind is stretched to its limits in a voluntary effort to accomplish something difficulty and worthwhile." 84
+
+"When measured empirically, people were happier at work and less happy relaxing than they suspected." 84
+
+summarizing Csikszenmihalyi's theory of flow: "...the feeling of going deep is *in itself* very rewarding. Our minds like this challenge, regardless of the subject. ... the act of going deep orders the consioucness in a way that makes life worthwhile." 85
+
+David Dewane's plan for the Eudaimonia Machine. architecture professor. "He imaginews a process in which you spend ninety minutes inside, take a ninety-minute break, and repeat two or three times -- at which point you rbrain will have achieved its limit of concentrat9ion for the day." 97
+
+"Unfortunatelyt, when it comes to replacing distraction with focus, matters are not so simple. To understand why this is true let's take a closer look at one of the main obstacles to going deep: the urge to turn your attention toward something more superficial. Most people recognize that this urge can compliate efforts to concentrate on hard things, but most underestimate its regularity and strength." 98
+
+"... you can expect to be 
