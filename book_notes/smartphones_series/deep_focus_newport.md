@@ -58,7 +58,7 @@ we overestimate the utility of the internet 68. it gets equated with productivit
 
 "A workday driven by the shallow, from a neurological perspective, is likely to be a draining and upsetting day, even if most of the shallow things that capture your attention seem harmless or fun." 82
 
-"...to increase the time you spend in a stat eof depth is to leverage the complex machinery of the human brain in a way that for several different neurological reasons maximizes the meaning and satisfaction you'll associate with your working life." 82
+"...to increase the time you spend in a state of depth is to leverage the complex machinery of the human brain in a way that for several different neurological reasons maximizes the meaning and satisfaction you'll associate with your working life." 82
 
 Quoting Csikszenmihalyi's work: "The best moments usually occur when a person'[s body or mind is stretched to its limits in a voluntary effort to accomplish something difficulty and worthwhile." 84
 
